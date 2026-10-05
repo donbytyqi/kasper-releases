@@ -4,5 +4,14 @@
     <title>Kasper</title>
     <link>https://raw.githubusercontent.com/donbytyqi/kasper-releases/main/appcast.xml</link>
     <language>en</language>
+    <item>
+      <title>Kasper 1.0</title>
+      <pubDate>Mon, 05 Oct 2026 21:12:01 +0200</pubDate>
+      <sparkle:version>9</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>First public release of Kasper for macOS.</li><li>Hold ⌘ Esc and speak: Kasper answers, does things on your Mac, or shows you where to click.</li><li>Sign in with Google, then connect your ChatGPT Plus or Pro plan or an OpenAI API key. Kasper itself is free.</li><li>Kasper now updates itself automatically.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-9/Kasper-1.0-9.dmg" type="application/octet-stream" sparkle:edSignature="ylH7fVkioeDtXGUylCBGNumJu+c33VXx/a+NrhMi3IbmyJWGMlA/HO8FYRSdIwggZpwZBiccukuIq6a/4fDnCA==" length="8211990"/>
+    </item>
   </channel>
 </rss>
