@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 06 Oct 2026 22:21:49 +0200</pubDate>
+      <sparkle:version>16</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Apple Music plays the song you ask for much more reliably: it plays straight from your library when the song is there, and otherwise opens the exact song from the Apple Music catalog.</li><li>Setup is shorter: apps ask for permission the normal macOS way the first time Kasper uses them.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-16/Kasper-1.0-16.dmg" type="application/octet-stream" sparkle:edSignature="7mvKf8ppWJPFimGvglm/pS+jX4ZOGFnGrFXqrL3e/0nM1egv3x9m4Ul3aAvgqZymu9w9FyRka8m0Manp8sGsAg==" length="8239313"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Tue, 06 Oct 2026 22:15:57 +0200</pubDate>
       <sparkle:version>15</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
