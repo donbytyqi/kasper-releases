@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 06 Oct 2026 21:42:12 +0200</pubDate>
+      <sparkle:version>11</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Fixes Allow Contacts and Allow Calendar and Reminders doing nothing. If access was turned off before, Kasper now opens the right page in System Settings.</li><li>The sign-in screen links to the Terms and Privacy Policy.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-11/Kasper-1.0-11.dmg" type="application/octet-stream" sparkle:edSignature="d5y8Fe1hpMl55RRJGJe93zSQkPL3W4t/4J4feXvo3yJLV6enQrcEhgpKVFVx1LHra1mS1d0yzCmoipPfDwi3BA==" length="8216924"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Tue, 06 Oct 2026 13:06:27 +0200</pubDate>
       <sparkle:version>10</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
