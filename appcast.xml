@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 06 Oct 2026 22:33:45 +0200</pubDate>
+      <sparkle:version>17</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Playing music no longer takes over your screen. Spotify and Apple Music start in the background, and if Kasper ever has to click in the app, it returns you to what you were doing and hides the player again.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-17/Kasper-1.0-17.dmg" type="application/octet-stream" sparkle:edSignature="gx7zX4Zn1aF697FPvWJfOoiKa5f/aaDmoaOD1btnOi0KM5OEWud/wlVSMQlTBDYdlIkJJSDXQMu/JGx3Vgu0Dg==" length="8249774"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Tue, 06 Oct 2026 22:21:49 +0200</pubDate>
       <sparkle:version>16</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
