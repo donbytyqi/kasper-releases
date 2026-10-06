@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 06 Oct 2026 22:15:57 +0200</pubDate>
+      <sparkle:version>15</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Setup now asks up front for permission to control Finder and System Events, so emptying the Trash, moving files and changing settings work without surprise pop-ups.</li><li>Full Disk Access is no longer part of setup. It stays available in Settings, Permissions, for the rare cases that need it.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-15/Kasper-1.0-15.dmg" type="application/octet-stream" sparkle:edSignature="Fv4I35ajd0pH6RPLmNVsxrJKyEmMT9ea9y3PzwmtsgB5x7ixNj36JN8OATaV74kJiqKfB4NvNki8WCM0C87zAw==" length="8222096"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Tue, 06 Oct 2026 22:09:45 +0200</pubDate>
       <sparkle:version>14</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
