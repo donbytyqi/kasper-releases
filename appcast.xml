@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Wed, 07 Oct 2026 01:17:59 +0200</pubDate>
+      <sparkle:version>19</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Explanations now ring the exact part Kasper is talking about, like a single symbol or term in a formula, with new glass bubbles, glowing pointers and smooth fades.</li><li>Guides check the screen before saying a task is done, start faster, read clearly in dark apps like Photoshop, and pause when the window you&#x27;re working in closes, then pick up again when it&#x27;s back.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-19/Kasper-1.0-19.dmg" type="application/octet-stream" sparkle:edSignature="AidTYKPJFi+TRSqBZhPouAQsAi7enod8Ge0ZbV05upJN/Irvb9ie6e3Kj+PpEgpJwBB5w1crgpVuj+HR8HUlCg==" length="8336927"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Tue, 06 Oct 2026 22:40:17 +0200</pubDate>
       <sparkle:version>18</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
