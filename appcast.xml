@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 06 Oct 2026 13:06:27 +0200</pubDate>
+      <sparkle:version>10</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Integrations like Notion, Slack, GitHub and Google are marked as coming soon while they are being set up.</li><li>Kasper now checks for updates when it starts and every hour, so fixes reach you sooner.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-10/Kasper-1.0-10.dmg" type="application/octet-stream" sparkle:edSignature="G9Moj+5Hg7y+NUZZQDZQtng/KU/f5Z3sC8VbJj5TiNx7anzGc7tdQlm5xL83yXqBjNJ2y42QV9nw7u9LAfLXDg==" length="8214048"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Mon, 05 Oct 2026 21:12:01 +0200</pubDate>
       <sparkle:version>9</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
