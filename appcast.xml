@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 06 Oct 2026 22:40:17 +0200</pubDate>
+      <sparkle:version>18</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Kasper works in the background whenever it can. Apps you mention only come to the front when Kasper has to click or type in them, or when it&#x27;s showing you how to do something.</li><li>Apple Music now plays songs from the Apple Music catalog in the background, without opening the Music window.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-18/Kasper-1.0-18.dmg" type="application/octet-stream" sparkle:edSignature="sKU0J1DQWyxA5ULz+tuKoW9kNjzHYcfJJyB8BcTmXmAPdDEwFifR1B/gTo7W+kmzsZZ63bbK3bPbW94sCMSpBQ==" length="8268063"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Tue, 06 Oct 2026 22:33:45 +0200</pubDate>
       <sparkle:version>17</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
