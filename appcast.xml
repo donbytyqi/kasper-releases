@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Wed, 07 Oct 2026 15:37:51 +0200</pubDate>
+      <sparkle:version>21</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Clicking Kasper in the Dock during sign-in or setup brings that window forward instead of skipping ahead to the main window.</li><li>Softer shadows on the cards in Kasper&#x27;s window and Settings.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-21/Kasper-1.0-21.dmg" type="application/octet-stream" sparkle:edSignature="tZSTVDRlua7YRDYvbQ56UD8kaOqncV0wMJOgszyrkrRfeXIddIK+WQnIzffjxkVikKn38hRKpRjQKPBYjK0xAA==" length="8348255"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Wed, 07 Oct 2026 02:20:02 +0200</pubDate>
       <sparkle:version>20</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
