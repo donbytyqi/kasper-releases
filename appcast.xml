@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Sun, 11 Oct 2026 14:08:47 +0200</pubDate>
+      <sparkle:version>23</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Updated to OpenAI&#x27;s newest AI models.</li><li>Sign in with ChatGPT now finds the ChatGPT and Codex apps more reliably.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-23/Kasper-1.0-23.dmg" type="application/octet-stream" sparkle:edSignature="xN8OCFnM9d0o4YkFWwqqpykRgJdiz6k00RR1FV9a7d4LAHLVx9zG8aku+nAQ4SMHRER3QaaIxVBQasCH/NgxAg==" length="8420406"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Sun, 11 Oct 2026 14:04:33 +0200</pubDate>
       <sparkle:version>22</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
