@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Sun, 11 Oct 2026 14:47:54 +0200</pubDate>
+      <sparkle:version>25</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Smoother orb behaviour while Kasper works on a task.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-25/Kasper-1.0-25.dmg" type="application/octet-stream" sparkle:edSignature="zZNPpRXftc9b26VPFCVzs8m9dtYHYrNp1fzB+r/1VUXaQySVqv3EKPqUdZLL8OqWvIEahHChfLaU7g+TSd/RAQ==" length="8437296"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Sun, 11 Oct 2026 14:23:55 +0200</pubDate>
       <sparkle:version>24</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
