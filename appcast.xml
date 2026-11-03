@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0</title>
+      <pubDate>Tue, 03 Nov 2026 01:09:44 +0100</pubDate>
+      <sparkle:version>28</sparkle:version>
+      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Faster responses, more accurate email and note handling.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0-28/Kasper-1.0-28.dmg" type="application/octet-stream" sparkle:edSignature="H3er3YRtu9/AKC1A9rYVHgpPKfho7gHlOg4GOPaiIDREQ8CNEqq+nRAhMj9Jo6la3ZEDqhM5bBF9OH/gGAM/Aw==" length="9922016"/>
+    </item>
+    <item>
+      <title>Kasper 1.0</title>
       <pubDate>Thu, 29 Oct 2026 10:50:42 +0100</pubDate>
       <sparkle:version>27</sparkle:version>
       <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
