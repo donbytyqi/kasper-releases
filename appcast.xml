@@ -6,6 +6,15 @@
     <language>en</language>
     <item>
       <title>Kasper 1.0.1</title>
+      <pubDate>Sun, 15 Nov 2026 15:37:44 +0100</pubDate>
+      <sparkle:version>30</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Kasper is much faster. Notes, reminders, timers, opening apps and changing settings now happen almost right away.</li><li>Walkthroughs start sooner, and Kasper always shows you where the button is.</li><li>&quot;Reply to this email&quot; now replies to the email you have open and writes your reply in the draft.</li><li>&quot;What&#x27;s my latest email?&quot; now checks all your Mail accounts.</li><li>Kasper reads the right app when you ask about something on your screen.</li><li>The orb stays on screen until Kasper is done.</li><li>Smaller fixes.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0.1-30/Kasper-1.0.1-30.dmg" type="application/octet-stream" sparkle:edSignature="q0YVOw+93hhf81bdcQv0m1diqHPwui64vWytfMByAJRPESkd4dppWoSxrcZt63PAWgRXu1ps7Kg8ldr+AM3SBQ==" length="8607297"/>
+    </item>
+    <item>
+      <title>Kasper 1.0.1</title>
       <pubDate>Sun, 15 Nov 2026 13:19:58 +0100</pubDate>
       <sparkle:version>29</sparkle:version>
       <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
