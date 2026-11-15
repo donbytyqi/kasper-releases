@@ -5,6 +5,15 @@
     <link>https://raw.githubusercontent.com/donbytyqi/kasper-releases/main/appcast.xml</link>
     <language>en</language>
     <item>
+      <title>Kasper 1.0.1</title>
+      <pubDate>Sun, 15 Nov 2026 13:19:58 +0100</pubDate>
+      <sparkle:version>29</sparkle:version>
+      <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+      <description><![CDATA[<ul><li>Much faster for everyday requests: notes, reminders, timers, opening apps and settings now happen almost right away.</li><li>Walkthroughs start sooner and always point at the control you asked about.</li><li>Checking your latest email now covers every Mail account.</li><li>The orb stays on screen until Kasper has finished, plus smaller fixes.</li></ul>]]></description>
+      <enclosure url="https://github.com/donbytyqi/kasper-releases/releases/download/v1.0.1-29/Kasper-1.0.1-29.dmg" type="application/octet-stream" sparkle:edSignature="pSlhqdQ4UlinD/unm8ccWA8xnEFt+JfmS0RRhOBxvLOJ3qgSNG6wFascEz6UFHdmlg/NoESHsESviP79WgoiCQ==" length="8598408"/>
+    </item>
+    <item>
       <title>Kasper 1.0</title>
       <pubDate>Tue, 03 Nov 2026 01:09:44 +0100</pubDate>
       <sparkle:version>28</sparkle:version>
